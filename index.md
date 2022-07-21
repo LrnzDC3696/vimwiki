@@ -1,15 +1,20 @@
 # My Notes
 
 ## General Todo
+
 - [ ] Fix the tmux bug (not doing pipenv for some reason)
   - [ ] Learn how tmux works
     - [ ] poetry support
 - [ ] Fix the tmux bug (not attaching the session if it exists already)
 - [ ] Fix the .bashrc to be flexible
   - [ ] rename my name to anya
-- [ ] Rename to LrnzDc in github
+- [x] Rename to LrnzDc in github
+- [ ] watch this two yt vids
+  - [ ] https://www.youtube.com/watch?v=2ORWaIqyj7k&t=329s
+  - [ ] https://www.youtube.com/watch?v=D6Ecv7F3eMk&t=3s
 
 ### To Learn
+
 - [ ] learn vimwiki
 - [ ] learn harpoon
 - [ ] learn vimdotenv
@@ -17,7 +22,8 @@
 - [ ] learn discord shortcuts
 
 ### Done
-- [x] Make a readme on how I setup my laptop + the capslock change (and how to undo it)
+
+- [x] Make a readme on how I setup my laptop + the capslock change
 - [x] removing italics in vim
 - [x] removing highlights in folders (shell ls)
 
@@ -30,8 +36,8 @@
 ## Projects
 
 ### Bladelist Bot
+
 - [ ] ping pong
 - [ ] have a workable structure
-- [ ]
 
 ## Ideas
