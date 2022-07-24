@@ -1,5 +1,14 @@
 # My Notes
 
+## Priority
+
+- [ ] configure .zshrc powerline!!!
+- [ ] make .zshrc dynamic
+- [ ] make .vim dynamic
+- [ ] make install sh
+- [ ] rename the main session so we can just attach it whenever
+- [ ] **reinstall linux**
+
 ## General Todo
 
 - [ ] Fix the tmux bug (not doing pipenv for some reason)
