@@ -8,11 +8,20 @@
 
 ## Priority
 
+- [ ] checkout i3gaps
+- [ ] rice i3wm to be dracula!!!
+- [ ] learn the keybinds of i3wm
+- [ ] add wallpaper (and in Pictures dir)
+- [ ] add apps to install
+- [ ] figure out notifications
+- [X] fix keyboard not loading
+- [X] fix the keybind in i3
+- [X] fix brightness
+- [X] fix screenshot maim
 - [X] install ranger+rice gdu cpufetch speedtestcli bpytop
-- [ ] disable cursor and mouse
-- [ ] fix install script (add to install script)
+- [X] fix install script (add to install script)
 - [X] update the installation on the nvm
-- [ ] configure .zshrc powerline!!!
+- [X] configure .zshrc powerline!!!
 - [ ] have a cleaner dotfiles
   - [ ] use symlinks?
   - [ ] use folders?
