@@ -10,10 +10,17 @@
 
 - [ ] checkout i3gaps
 - [ ] rice i3wm to be dracula!!!
-- [ ] learn the keybinds of i3wm
-- [ ] add wallpaper (and in Pictures dir)
-- [ ] add apps to install
-- [ ] figure out notifications
+- [ ] i3block
+- [X] i3lock
+- [ ] i3status
+- [ ] add packages to install
+- [X] add wallpaper (and in Pictures dir)
+- [.] figure out notifications
+  - [ ] screen brightness
+  - [ ] volume up and down
+  - [ ] music play stop ff fb
+  - [X] theme
+- [X] exit i3wm without mouse
 - [X] fix keyboard not loading
 - [X] fix the keybind in i3
 - [X] fix brightness
@@ -33,6 +40,7 @@
 
 ## General Todo
 
+- [ ] add git completion
 - [ ] Fix the tmux bug (not doing pipenv for some reason)
   - [ ] Learn how tmux works
     - [ ] poetry support
