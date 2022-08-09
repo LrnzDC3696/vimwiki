@@ -8,18 +8,23 @@
 
 ## Priority
 
-- [ ] checkout i3gaps
-- [ ] rice i3wm to be dracula!!!
-- [ ] i3block
-- [X] i3lock
-- [ ] i3status
-- [ ] add packages to install
-- [X] add wallpaper (and in Pictures dir)
-- [.] figure out notifications
-  - [ ] screen brightness
-  - [ ] volume up and down
-  - [ ] music play stop ff fb
+- [X] rice i3wm to be dracula!!!
+  - [X] gtk or smth (https://faq.i3wm.org/question/2974/how-to-use-gtk-themes-with-i3.1.html)
+  - [X] lxappearance **(I followed draculatheme.com/gtk)**
+- [X] add packages to install
+- [X] make sure to save every config files
+- [X] fix volume limit
+- [X] figure out notifications
+~~  - [ ] screen brightness~~
+~~  - [ ] volume up and down~~
+~~  - [ ] music play stop ff fb~~
   - [X] theme
+- [X] i3block
+- [X] i3lock
+- [X] i3status
+  - [X] yeeted
+- [X] checkout i3gaps
+- [X] add wallpaper (and in Pictures dir)
 - [X] exit i3wm without mouse
 - [X] fix keyboard not loading
 - [X] fix the keybind in i3
@@ -54,6 +59,8 @@
 
 ### To Learn
 
+- [ ] learn wifi stuff using terminal
+- [ ] learn how to use notifications
 - [ ] learn vimwiki
 - [ ] learn harpoon
 - [ ] learn poetry
