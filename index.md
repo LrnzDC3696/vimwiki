@@ -8,6 +8,7 @@
 
 ## Priority
 
+- [ ] add source to vim
 - [X] rice i3wm to be dracula!!!
   - [X] gtk or smth (https://faq.i3wm.org/question/2974/how-to-use-gtk-themes-with-i3.1.html)
   - [X] lxappearance **(I followed draculatheme.com/gtk)**
