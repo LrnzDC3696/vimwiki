@@ -1,4 +1,4 @@
-FUCKING NOTES
+CKING NOTES
 Molecular weight = mass of a substance (in grams) / number of moles
 Number of moles = Mass of substance / Mass of one mole.
 Calculate he number of moles you have by taking the Mass / molar mass.

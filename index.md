@@ -1,5 +1,6 @@
 # My Notes
 
+[notes](notes) 
 [scratch](scratch)
 
 ## Projects
@@ -8,6 +9,17 @@
 
 ## Priority
 
+add ftplugin
+add abbreviation
+dunno man but find a way to fix git autocomplete not working!!!
+migrate documentation (from keep notes to readme)
+learn how to work with github subomdules
+learn how to connect tow ifi only using comannd line interface 
+get the monkey type thingy
+clean vimwiki
+try to find a way to control cursor using keyboard
+set env variable
+pkill -f screenkey
 - [ ] add source to vim
 - [X] rice i3wm to be dracula!!!
   - [X] gtk or smth (https://faq.i3wm.org/question/2974/how-to-use-gtk-themes-with-i3.1.html)
@@ -35,14 +47,13 @@
 - [X] fix install script (add to install script)
 - [X] update the installation on the nvm
 - [X] configure .zshrc powerline!!!
-- [ ] have a cleaner dotfiles
-  - [ ] use symlinks?
-  - [ ] use folders?
+- [X] have a cleaner dotfiles
+  - [X] use folders?
 ~~ - [ ] make .zshrc dynamic ~~
 ~~ - [x] make .vim dynamic ~~
 - [x] make install sh
 - [x] rename the main session so we can just attach it whenever
-- [ ] **reinstall linux**
+- [X] **reinstall linux**
 
 ## General Todo
 
@@ -76,8 +87,7 @@
 - [x] removing italics in vim
 - [x] removing highlights in folders (shell ls)
 
-- [x] tmux copy pasta on system clipboard (go on copy mode then paste, to paste
-      on another pane do `ctrl + ]`)
+- [x] tmux copy pasta on system clipboard (go on copy mode then paste, to paste on another pane do `ctrl + ]`)
 - [x] add vimwiki in vim
 - [x] add chrome ext vimium
 - [x] add chrome ext yt ad block
